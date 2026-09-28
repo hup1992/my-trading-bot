@@ -1,0 +1,6 @@
+pandas
+numpy
+pandas_ta
+yfinance
+backtesting
+bokeh
